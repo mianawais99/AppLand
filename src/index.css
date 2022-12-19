@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap');
 body{
     margin:0px;
     padding: 0px;
@@ -96,7 +97,7 @@ nav .menu-btn,
     color: #00b7ff;
 }
 .name .details{
-    color: #969696;
+    color: #3f3f3f;
 }
 .name h1{
 	font-family:'Montserrat';
